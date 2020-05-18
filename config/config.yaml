@@ -1,0 +1,24 @@
+mail:
+  sender:
+    username:
+      ""
+    password:
+      123
+  receiver:
+    username:
+      ""
+baseUrl:
+  cenpur_dev:
+    ""
+account:
+  default:
+    username:
+      ""
+    password:
+      ""
+    vericode:
+      888888
+    cnname:
+      ""
+    memberid:
+      "u0000050"
