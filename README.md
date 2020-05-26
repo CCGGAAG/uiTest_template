@@ -1,5 +1,15 @@
 QA自动化
 
+### 安装依赖库：
+在当前项目目录下，运行命令：  
+pip install -r requirements.txt
+
+### 更新依赖库：
+1. 首先安装pipreqs库：  
+pip install pipreqs
+2. 在当前项目目录下运行  
+pipreqs ./ --encoding=utf-8  
+成功会显示：INFO: Successfully saved requirements file in ./requirements.txt
 
 
 ### 层级结构
